@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR4a0006/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4a0006/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定補繪蕭雲從離騷全圖
+  date: '2015-08-24 23:44:49.863296'
+  source:
+    repository: kanripo
+    path: KR4a0006
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4a0006_000-WYG.yaml, hash: 'sha256:eeeca82746cb6b757f508e84548683f1659a0fe1242059f05f8785841c8a66e9'}
+  - {seq: 1, filename: KR4a0006_001-WYG.yaml, hash: 'sha256:a17adef874c1aba1db2e58e961619a20f41eea932c599dc597974450ab5575ac'}
+  - {seq: 2, filename: KR4a0006_002-WYG.yaml, hash: 'sha256:eaa612c8878ab6c52c993043790b3568ccd3fd5dae51dbdddebe6de2cfdccb9d'}
+  - {seq: 3, filename: KR4a0006_003-WYG.yaml, hash: 'sha256:ad1a42747be981ae53c9e6873662f2f562b095f9407db7e23d427a4ca86b393b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4a0006_000-WYG.markers.yaml, hash: 'sha256:13f1880aa8481c1699b4cd897bea45f18627bca9ea9f58c282138f5779e1fc45'}
+  - {seq: 1, role: markers, filename: assets/KR4a0006_001-WYG.markers.yaml, hash: 'sha256:4bb735c243c4ac7ac621f0add0e8592187a3ee0f24046f3de8c166c3b95e3e5d'}
+  - {seq: 2, role: markers, filename: assets/KR4a0006_002-WYG.markers.yaml, hash: 'sha256:86aa3f970d9fc35bb01c709b83d6d6bfabef01cf039f724af509511085c66b42'}
+  - {seq: 3, role: markers, filename: assets/KR4a0006_003-WYG.markers.yaml, hash: 'sha256:67339de613ec96b6a4b0c84d59cd9dd49bcc3f5df7d716e833b4976fe0b849ec'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4a0006_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 186
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4a0006_WYG_000-2a
+    span:
+    - body
+    - 186
+    - 465
+  label: 御製詩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4a0006_WYG_000-3a
+    span:
+    - body
+    - 465
+    - 911
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4a0006_WYG_000-5a
+    span:
+    - body
+    - 911
+    - 1460
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4a0006_WYG_000-7a
+    span:
+    - body
+    - 1460
+    - 2044
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4a0006_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4536
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4a0006_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 1691
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4a0006_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 10884
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:83eba52d6d856d073a4cb2a4798bccbb9998f76146b52d874df326ff1dab0f7e
